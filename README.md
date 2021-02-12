@@ -52,9 +52,10 @@ Design and Development a New Website for IABC(Regina)
 
 ## Overview
 > **Activity 1 - Understand IABC**
-- [**Affinity Diagram**](https://github.com/panli200/ENSE271-Project/tree/main/Affinity%20Diagram)
-- [**Empathy Map**](https://github.com/panli200/ENSE271-Project/tree/main/Empathy%20Map)
-- [**User Story Map**](https://github.com/panli200/ENSE271-Project/blob/main/User%20Story%20Map/UserStory.png)
+- [**Affinity Diagram**](https://github.com/bulbularora/ENSE271-GroupProject/tree/main/Activity%201%20-%20Understanding%20the%20customer/Affinity%20Diagram)
+- [**Empathy Map**](https://github.com/bulbularora/ENSE271-GroupProject/tree/main/Activity%201%20-%20Understanding%20the%20customer/Empathy%20Map)
+- [**User Story Map**](https://github.com/bulbularora/ENSE271-GroupProject/tree/main/Activity%201%20-%20Understanding%20the%20customer/User%20Story%20Map)
+- [**Presentation/ Customer Notes**](https://github.com/bulbularora/ENSE271-GroupProject/tree/main/Activity%201%20-%20Understanding%20the%20customer/Presentation%20and%20Customer%20notes)
 > **Activity 2**
 
 > **Activity 3**
